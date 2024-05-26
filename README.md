@@ -25,8 +25,8 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_vhsnwlf_" target="blank"><img width="130em" height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_vhsnwlf_" /></a>
-<a href="www.linkedin.com/in/vitor-nascimento-b05b5430b" target="blank"><img width="130em" height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/_vhsnwlf_" target="_blank"><img width="130em" height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_vhsnwlf_" /></a>
+<a href="www.linkedin.com/in/vitor-nascimento-b05b5430b" target="_blank"><img width="130em" height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <div>
